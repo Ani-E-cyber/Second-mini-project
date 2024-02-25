@@ -1,1 +1,1 @@
-# Second-mini-project
+Pokemon names and abilities
